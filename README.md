@@ -1,15 +1,24 @@
 # Devzone
-Technologies Used:
 
-## MongoDB
+## Technologies Used:
+MongoDB
+
 ExpressJS
+
 ReactJS
+
 NodeJS
-Heroku 
+
+Heroku
+
 
 ## Routes:
 GET api/auth/
+
 POST api/auth/
+
 POST api/users/
+
 GET api/profile/me
+
 POST api/profile/
