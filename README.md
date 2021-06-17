@@ -9,8 +9,6 @@ ReactJS
 
 NodeJS
 
-Heroku
-
 
 ## Routes:
 GET api/auth/
